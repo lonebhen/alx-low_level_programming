@@ -1,4 +1,4 @@
-This project is the first C project  covers the very basics of compilation and C.
+Each file has its own task
 
 File 0-preprocessor is a script that runs a C file through the preprocessor and save the result into another file.
 
